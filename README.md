@@ -1,75 +1,55 @@
-### <div align="center">Hi 👋! My name is Arthur Silva</div>  
-  
+<h2 align="left">Hi there!!</h2>
 
-- I'm a enthusiastic Software Engineer  
-  
+###
 
-<br/>  
+<p align="left">I'm Arthur Silva and i am an enthusiastic Software Engineer</p>
 
+###
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h2 align="left">Tech Stack</h2>
 
+###
 
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
+<h2 align="left">GitHub Stats:</h2>
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/arthursilva-swe" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/arthurooliveira_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arthursilva-swe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursilva-swe&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+###
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=arthursilva-swe&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=arthursilva-swe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthursilva-swe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<br/>  
+###
 
+<h2 align="left">Socials:</h2>
 
-<br />
+###
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
+  <a href="arthursilva.swengineersoftware@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/arthurooliveira_?igsh=MTV1NTkxdDF0bjlkcQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/qr/LBMJIHMXG66KJ1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arthursilva-swe.arthursilva-swe&"  />
+</div>
+
+###
